@@ -1,0 +1,15 @@
+C:\Users\maksk\OneDrive\Рабочий стол\HomeWork\HomeWork7\obj\Debug\net7.0\HomeWork7.csproj.AssemblyReference.cache
+C:\Users\maksk\OneDrive\Рабочий стол\HomeWork\HomeWork7\obj\Debug\net7.0\HomeWork7.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\maksk\OneDrive\Рабочий стол\HomeWork\HomeWork7\obj\Debug\net7.0\HomeWork7.AssemblyInfoInputs.cache
+C:\Users\maksk\OneDrive\Рабочий стол\HomeWork\HomeWork7\obj\Debug\net7.0\HomeWork7.AssemblyInfo.cs
+C:\Users\maksk\OneDrive\Рабочий стол\HomeWork\HomeWork7\obj\Debug\net7.0\HomeWork7.csproj.CoreCompileInputs.cache
+C:\Users\maksk\OneDrive\Рабочий стол\HomeWork\HomeWork7\bin\Debug\net7.0\HomeWork7.exe
+C:\Users\maksk\OneDrive\Рабочий стол\HomeWork\HomeWork7\bin\Debug\net7.0\HomeWork7.deps.json
+C:\Users\maksk\OneDrive\Рабочий стол\HomeWork\HomeWork7\bin\Debug\net7.0\HomeWork7.runtimeconfig.json
+C:\Users\maksk\OneDrive\Рабочий стол\HomeWork\HomeWork7\bin\Debug\net7.0\HomeWork7.dll
+C:\Users\maksk\OneDrive\Рабочий стол\HomeWork\HomeWork7\bin\Debug\net7.0\HomeWork7.pdb
+C:\Users\maksk\OneDrive\Рабочий стол\HomeWork\HomeWork7\obj\Debug\net7.0\HomeWork7.dll
+C:\Users\maksk\OneDrive\Рабочий стол\HomeWork\HomeWork7\obj\Debug\net7.0\refint\HomeWork7.dll
+C:\Users\maksk\OneDrive\Рабочий стол\HomeWork\HomeWork7\obj\Debug\net7.0\HomeWork7.pdb
+C:\Users\maksk\OneDrive\Рабочий стол\HomeWork\HomeWork7\obj\Debug\net7.0\HomeWork7.genruntimeconfig.cache
+C:\Users\maksk\OneDrive\Рабочий стол\HomeWork\HomeWork7\obj\Debug\net7.0\ref\HomeWork7.dll
